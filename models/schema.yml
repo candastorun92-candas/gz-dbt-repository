@@ -2,6 +2,7 @@ version: 2
 
 sources:
   - name: raw
+    database: winter-cab-474807-p0
     schema: gz_raw_data
     tables:
       - name: sales
